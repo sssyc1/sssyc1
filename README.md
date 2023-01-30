@@ -1,4 +1,4 @@
-### Hi there ,this is sss👋
+### 👋 一名普通学生
 
 <!--
 **sssyc1/sssyc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 [![sss's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssyc1&count_private=true&show_icons=true)](https://github.com/sssyc1/github-readme-stats)
+
