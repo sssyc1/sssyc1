@@ -6,10 +6,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
 
-<a href="https://leetcode-cn.com/u/sss-92t/" target="_blank">
-<img src=https://github.com/sssyc1/sssyc1/blob/main/logo-dark-cn.c42314a8.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
-
 <br/>  
 
 
