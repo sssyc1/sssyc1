@@ -36,7 +36,7 @@
 
 ## Github Stats:  
 
-<img src="https://github-readme-stats.vercel.app/api?username=sssyc1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![sssyc1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssyc1&count_private=true&show_icons=true&hide_border=true)
 
 
 <br/>  
