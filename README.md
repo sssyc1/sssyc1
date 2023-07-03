@@ -1,10 +1,7 @@
 # *<div align="center">Hey , I'm sss.</div>*  
   
 
-## Connect with me:  
-<a href="https://github.com/sssyc1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
+
 
 <br/>  
 
@@ -32,16 +29,6 @@
 </div>  
 
 <br/>  
-
-
-## Github Stats:  
-
-<img src="https://github-readme-stats.vercel.app/api?username=sssyc1&count_private=true&show_icons=true&hide_border=true" positon="left" width="100%">
-
-
-<br/>  
-
-  
 
 <br/>  
 
