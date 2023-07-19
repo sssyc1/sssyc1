@@ -30,7 +30,7 @@
 
 <br/>  
 
-[sssyc1's GitHub stats](https://github-readme-stats-vqwg-6vl4lyncx-sssyc1.vercel.app/api?username=sssyc1&show_icons=true&count_private=true)
+![sssyc1's GitHub stats](https://github-readme-stats-vqwg-6vl4lyncx-sssyc1.vercel.app/api?username=sssyc1&show_icons=true&count_private=true)
 
 <br/>  
 
