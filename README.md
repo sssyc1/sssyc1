@@ -30,7 +30,7 @@
 
 <br/>  
 
-![sssyc1's GitHub stats](https://github-readme-stats-vqwg-6vl4lyncx-sssyc1.vercel.app/api?username=sssyc1&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)
+![sssyc1's GitHub stats](https://github-readme-stats-vqwg-6vl4lyncx-sssyc1.vercel.app/api?username=sssyc1&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&width=700px&height=900px)
 
 <br/>  
 
