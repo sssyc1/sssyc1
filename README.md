@@ -1,8 +1,6 @@
 # *<div align="center">Hey , I'm sss.</div>*  
   
 
-
-
 <br/>  
 
 
@@ -25,9 +23,7 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sssyc1&&style=flat-square)  
   
-
 <br/>  
-
 
 <br />
 
